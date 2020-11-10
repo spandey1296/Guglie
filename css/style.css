@@ -16,13 +16,13 @@
 }
 
 html {
-    font-size: 62.5%;
+    font-size: 72.5%;
 }
 
 p,
 label,
 input::placeholder {
-    font-size: 1.9rem;
+    font-size: 2.9rem;
     line-height: 170%;
     color: #6c757d;
 }
@@ -46,7 +46,7 @@ body {
 .main_heading {
     font-family: var(--title);
     font-weight: bold;
-    font-size: 5rem;
+    font-size: 6rem;
     color: #000;
 }
 
